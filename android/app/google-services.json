@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "618275148125",
+    "firebase_url": "https://reurb-plus.firebaseio.com",
+    "project_id": "reurb-plus",
+    "storage_bucket": "reurb-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618275148125:android:5a253ef2c91be46c4ad8b4",
+        "android_client_info": {
+          "package_name": "com.reurbplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618275148125-p2k79883fs8gkrp55bpllvaa61ot73d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkwcKIQ5zyU7h6C_GhPskZ5_ZqDxVPYWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618275148125-p2k79883fs8gkrp55bpllvaa61ot73d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
